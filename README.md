@@ -41,15 +41,15 @@ Certifique-se de ter o **Python 3.8+** instalado na sua máquina.
 
 ```bash
 git clone https://github.com/GuilhermeTomelin/sistema_viagens_streamlite_.git
-
+```
+```
 cd sistema_viagens_streamlite_
+```
 
 ### 2. Instalar as dependências
 
 ```bash
 pip install streamlit plotly
-
-```
 
 ### 3. Executar a aplicação
 
