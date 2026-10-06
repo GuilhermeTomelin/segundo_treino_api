@@ -12,6 +12,7 @@ O **TravelPlanner** é uma aplicação web interativa desenvolvida em Python com
 ---
 ## 📂 Estrutura do Projeto
 
+```text
 projeto_api/
 │
 ├── app.py                      # Ponto de entrada da aplicação (Roteamento de telas)
@@ -27,7 +28,6 @@ projeto_api/
 * **[Python](https://www.python.org/)** — Linguagem principal
 * **[Streamlit](https://streamlit.io/)** — Framework web para aplicações de dados
 * **[Plotly](https://plotly.com/python/)** — Visualização de mapas interativos e gráficos
-
 ---
 
 ## 🚀 Como Executar o Projeto
@@ -39,8 +39,9 @@ Certifique-se de ter o **Python 3.8+** instalado na sua máquina.
 ### 1. Clonar o repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-cd seu-repositorio/projeto_api
+git clone https://github.com/GuilhermeTomelin/sistema_viagens_streamlite_.git
+
+cd sistema_viagens_streamlite_
 
 ```
 
