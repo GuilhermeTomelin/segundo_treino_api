@@ -1,14 +1,7 @@
-Aqui está um **`README.md`** completo e profissional, formatado para colar diretamente no seu repositório do GitHub.
-
----
-
-```markdown
 # ✈️ TravelPlanner — Inteligência Global de Viagens
 
 O **TravelPlanner** é uma aplicação web interativa desenvolvida em Python com **Streamlit** e **Plotly**, projetada para auxiliar viajantes na busca de voos, mapeamento de rotas globais em mapas 3D/geográficos e análise detalhada de segurança, saúde, limpeza e atrações turísticas regionais de mais de 20 países.
-
 ---
-
 ## 📌 Funcionalidades Principais
 
 - **Mapeamento de Rotas Globais:** Visualização de arcos de voo interativos em mapas mundiais renderizados com Plotly.
@@ -16,12 +9,9 @@ O **TravelPlanner** é uma aplicação web interativa desenvolvida em Python com
 - **Análise Regional & Indicadores:** Painel interativo por estado/região mostrando índices de **Segurança**, **Saúde** e **Limpeza**.
 - **Pontos de Interesse e Alertas:** Exibição geolocalizada de atrações turísticas (com categorias) e zonas com alertas de atenção.
 - **Arquitetura Modularizada:** Estrutura limpa baseada em views, componentes utilitários e dados centralizados.
-
 ---
-
 ## 📂 Estrutura do Projeto
 
-```text
 projeto_api/
 │
 ├── app.py                      # Ponto de entrada da aplicação (Roteamento de telas)
@@ -31,11 +21,7 @@ projeto_api/
 └── views/                      # Camada de Apresentação (Telas)
     ├── stage1_search.py        # Pesquisa de voos e mapa global
     └── stage2_regional.py      # Visão detalhada por país/estado e indicadores
-
-```
-
 ---
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **[Python](https://www.python.org/)** — Linguagem principal
