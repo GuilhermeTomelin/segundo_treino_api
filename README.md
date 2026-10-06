@@ -48,15 +48,12 @@ cd sistema_viagens_streamlite_
 
 ### 2. Instalar as dependências
 
-```bash
 pip install streamlit plotly
 
 ### 3. Executar a aplicação
 
 ```bash
 streamlit run app.py
-
-```
 
 Acesse a aplicação no seu navegador pelo endereço local: `http://localhost:8501`.
 
