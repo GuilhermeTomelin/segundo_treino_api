@@ -22,6 +22,7 @@ projeto_api/
 └── views/                      # Camada de Apresentação (Telas)
     ├── stage1_search.py        # Pesquisa de voos e mapa global
     └── stage2_regional.py      # Visão detalhada por país/estado e indicadores
+```
 ---
 ## 🛠️ Tecnologias Utilizadas
 
@@ -42,8 +43,6 @@ Certifique-se de ter o **Python 3.8+** instalado na sua máquina.
 git clone https://github.com/GuilhermeTomelin/sistema_viagens_streamlite_.git
 
 cd sistema_viagens_streamlite_
-
-```
 
 ### 2. Instalar as dependências
 
